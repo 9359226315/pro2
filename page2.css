@@ -1,0 +1,60 @@
+.flex-container1{
+    background-color:white;
+    height:auto;
+    width:auto;
+
+    margin:100px;
+    text-align: center;
+   
+    
+
+
+}
+
+
+
+.box4{
+    background-color: antiquewhite;color:red;
+    height:200px;
+    width:200px;
+    border:1px solid red;
+    margin:20px;
+    border-radius: 10px;
+    padding-top: 20px;
+    text-align: center;
+    position:relative;
+     left: 550px;
+
+     
+}
+
+.fa-solid{
+    width: 20px;
+    position: relative;
+    top:40px;
+    left:80px;
+    font-size: 25px;
+    
+}
+
+.postiton{
+    position: relative;
+    bottom:80px;
+    left: 30px;
+}
+.line{
+    width: 100px;
+    position:absolute;
+    right: 550px;
+}
+.li{
+
+    width: 100px;
+    position: absolute;
+    right:880px;
+    top: 175px;
+}
+.fa {
+    font-size: 30px;
+    color: orangered;
+}
